@@ -44,7 +44,7 @@ export default function Home() {
             options={vehicleMakeOptions} 
             value={selectedMakeId} 
             onChange={setSelectedMakeId} 
-            placeholder="Select a vehicle"
+            placeholder="Select a vehicle make"
           />
 
           <SelectInput
