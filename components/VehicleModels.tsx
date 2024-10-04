@@ -34,7 +34,7 @@ export default function VehicleModels({ makeId, year }: { makeId: string; year: 
           </li>
         ))
       ) : (
-        <p className="text-gray-700">Nenhum modelo encontrado para essa marca e ano.</p>
+        <p className="text-gray-700">No model found for this make and year.</p>
       )}
     </ul>
   );
