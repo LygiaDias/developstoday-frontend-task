@@ -26,14 +26,14 @@ This is a car dealer application developed using Next.js, allowing users to filt
 
 1. Clone the repository
 
-- `git clone  https://github.com/LygiaDias/developstoday-frontend-task`.
+- `git clone git@github.com:LygiaDias/developstoday-frontend-task.git`.
 - Navigate to the folder of the cloned repository:
   - `cd developstoday-frontend-task`
 
 2. Install the dependencies
 
 
-- `npm install`
+- `yarn install`
 
 3. Start the application
 
